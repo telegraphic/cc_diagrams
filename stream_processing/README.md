@@ -15,7 +15,7 @@ So, you can use these in a thesis / paper / blog post, as long as you follow the
 
 ![data-stream-example2.pdf](data-stream-example2.png)
 
-#####clos-network.pdf
+##### clos-network.pdf
 
 [clos-network.pdf](clos-network.png)
 
@@ -23,6 +23,6 @@ So, you can use these in a thesis / paper / blog post, as long as you follow the
 
 [data-stream-example.pdf](data-stream-example.png)
 
-#####udp-stackup.pdf
+##### udp-stackup.pdf
 
 [udp-stackup.pdf](udp-stackup.png)
